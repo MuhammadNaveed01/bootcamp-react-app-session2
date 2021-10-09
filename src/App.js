@@ -5,7 +5,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-          <h1>This  is React App</h1>
+          <h1>Welcome to React Js</h1>
+          <p>Happy Coding !</p>
       </header>
     </div>
   );
